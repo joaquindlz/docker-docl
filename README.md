@@ -42,12 +42,12 @@ Repositories
 
 **Github repository (for Dockerfile)**:
 
-https://github.com/joaquindlz/docker-docl
+[https://github.com/joaquindlz/docker-docl](https://github.com/joaquindlz/docker-docl)
 
 
 **Docker Hub repository (automated builds)**:
 
-https://registry.hub.docker.com/u/joaquindlz/docl/
+[https://github.com/joaquindlz/docker-docl](https://registry.hub.docker.com/u/joaquindlz/docl/)
 
 
 More information

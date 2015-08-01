@@ -1,4 +1,4 @@
-Dockerfile for DOCL (Digital Ocean command line)
+Docker DOCL image - Digital Ocean command line
 ======================
 
 Lightweight Alpine Linux with docl tool installed.
@@ -18,7 +18,7 @@ To build a image based on this dockerfile:
     # cd docker-docl
     # docker build -t docl .
 
-To get the builded image, execute the following command:
+To get the builded image from Docker Hub, execute the following command:
 
 	# docker pull joaquindlz/docl
 
@@ -37,10 +37,18 @@ Test docl:
 	You can create a token on the DO website vite the Apps & API menu.
 	Enter your DO Token:
 
-Docker Hub repository
+Repositories
 --------------------
 
-This image is on [joaquindlz/docl repository on Docker Hub](https://registry.hub.docker.com/u/joaquindlz/docl/)
+**Github repository (for Dockerfile)**:
+
+https://github.com/joaquindlz/docker-docl
+
+
+**Docker Hub repository (automated builds)**:
+
+https://registry.hub.docker.com/u/joaquindlz/docl/
+
 
 More information
 ----------------
